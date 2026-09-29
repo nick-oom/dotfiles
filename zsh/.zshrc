@@ -103,9 +103,6 @@ source $ZSH/oh-my-zsh.sh
 alias zshconfig="nvim ~/.zshrc"
 alias ohmyzsh="nvim ~/.oh-my-zsh"
 
-# oMLX
-export OPENAI_API_BASE=http://127.0.0.1:8000/v1
-export OPENAI_API_KEY=sk-omlx-kEQACPC9HuDYcnMifznBRIOn
 
 # Added by Unsloth installer
 export PATH="$HOME/.local/bin:$PATH"
